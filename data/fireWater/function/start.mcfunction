@@ -1,5 +1,5 @@
 tellraw @a "--------------------"
-tellraw @a [{"text": "| i-want-to-do "},{"type":"translatable","translate":"license.white.elephant.enable","fallback":"数据包加载成功","color":"green","bold":true}]
+tellraw @a [{"text": "| Fire Water "},{"type":"translatable","translate":"license.white.elephant.enable","fallback":"数据包加载成功","color":"green","bold":true}]
 tellraw @a [{"text": "| "},{"text":"by white_elephant_","color":"blue","underlined":true,"italic":true,"clickEvent":{"action":"open_url","value":"https://modrinth.com/user/white_elephant"},"click_event":{"action":"open_url","url":"https://modrinth.com/user/white_elephant"}}]
 tellraw @a "| "
 tellraw @a [{"text": "| "},{"type":"translatable","translate":"license.white.elephant.use","fallback":"本数据包使用","bold": true},{"text": " "},{"text":"GNU GPL","color":"blue","underlined":true,"italic":true,"clickEvent":{"action":"open_url","value":"https://www.gnu.org/licenses/gpl-3.0.txt"},"click_event":{"action":"open_url","url":"https://www.gnu.org/licenses/gpl-3.0.txt"}},{"text": " "},{"type":"translatable","translate":"license.white.elephant.open.source","fallback":"协议开源","bold": true}]
